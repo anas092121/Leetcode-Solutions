@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/anas092121/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3636-check-balanced-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/3636-check-balanced-string) |
 ## Sliding Window
 |  |
 | ------- |

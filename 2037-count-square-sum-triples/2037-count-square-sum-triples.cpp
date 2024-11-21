@@ -1,15 +1,13 @@
 class Solution {
 public:
     int countTriples(int n) {
-        int r = 0;
-        for (int i = 1; i <= n; i++) {
-            for (int j = i + 1; j <= n; j++) {
-                for (int x = j + 1; x <= n; x++) {
-                    if (i * i + j * j == x * x)
-                        r += 2;
-                }
-            }
-        }
-        return r;
+        vector<bool> squares(n * n + 1);
+        for (int i = 1; i <= n; ++i)
+            squares[i * i] = true;
+        int res = 0;
+        for (int i = 1; i <= n; ++i)
+            for (int j = i; i * i + j * j <= n * n; ++j)
+                res += squares[i * i + j * j] * 2;
+        return res;
     }
 };

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/anas092121/Leetcode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/anas092121/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/anas092121/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Sorting
 |  |

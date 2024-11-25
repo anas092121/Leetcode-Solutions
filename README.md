@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/anas092121/Leetcode-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/anas092121/Leetcode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2836-neither-minimum-nor-maximum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/anas092121/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/anas092121/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

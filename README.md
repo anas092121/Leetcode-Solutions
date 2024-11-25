@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/anas092121/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1137-height-checker](https://github.com/anas092121/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1656-count-good-triplets](https://github.com/anas092121/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
@@ -20,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1137-height-checker](https://github.com/anas092121/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/anas092121/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [2037-count-square-sum-triples](https://github.com/anas092121/Leetcode-Solutions/tree/master/2037-count-square-sum-triples) |
 | [2122-count-special-quadruplets](https://github.com/anas092121/Leetcode-Solutions/tree/master/2122-count-special-quadruplets) |
+## Binary Search
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->

@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/anas092121/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Counting Sort
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 ## Design
 |  |

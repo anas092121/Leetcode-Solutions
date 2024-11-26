@@ -15,11 +15,19 @@ public:
         if(root==NULL){
             return;
         }
-        solve(root->left, low, high, sum);
+
+        // left
+        if(root->val > low)
+            solve(root->left, low, high, sum);
+
+        // node
         if(root->val >= low && root->val <= high){
             sum += root->val;
         }
-        solve(root->right, low, high, sum);
+
+        // right
+        if(root->val < high)
+            solve(root->right, low, high, sum);
     }
 
 

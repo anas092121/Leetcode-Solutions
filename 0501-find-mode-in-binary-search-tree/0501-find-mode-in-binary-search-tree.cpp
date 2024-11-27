@@ -1,6 +1,6 @@
 class Solution {
 public:
-    std::vector<int> findMode(TreeNode* root) {
+    vector<int> findMode(TreeNode* root) {
         in_order_traversal(root);
         return modes;
     }
@@ -8,7 +8,7 @@ private:
     int current_val = 0;
     int current_count = 0;
     int max_count = 0;
-    std::vector<int> modes;
+    vector<int> modes;
 
     void in_order_traversal(TreeNode* node) {
         if (!node) return;

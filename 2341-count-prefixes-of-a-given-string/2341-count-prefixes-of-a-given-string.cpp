@@ -1,13 +1,13 @@
 class Solution {
 public:
-    int countPrefixes(vector<string>& words, string pref) {
+    int countPrefixes(vector<string>& words, string s) {
         int count = 0;
         for (int i = 0; i < words.size(); i++) {
-            string res = words[i];
-            if (res.size() <= pref.size()) {
+            string pref = words[i];
+            if (pref.size() <= s.size()) {
                 bool flag = true;
-                for (int j = 0; j < res.size(); j++) {
-                    if (pref[j] != res[j]) {
+                for (int j = 0; j < pref.size(); j++) {
+                    if (s[j] != pref[j]) {
                         flag = false;
                         break;
                     }

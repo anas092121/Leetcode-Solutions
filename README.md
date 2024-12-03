@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/anas092121/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2122-count-special-quadruplets](https://github.com/anas092121/Leetcode-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [1542-consecutive-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anas092121/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/anas092121/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/anas092121/Leetcode-Solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |

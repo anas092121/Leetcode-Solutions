@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/anas092121/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/anas092121/Leetcode-Solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/anas092121/Leetcode-Solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Math
 |  |
 | ------- |

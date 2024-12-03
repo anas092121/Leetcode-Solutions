@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/anas092121/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/anas092121/Leetcode-Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2886-faulty-keyboard](https://github.com/anas092121/Leetcode-Solutions/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/anas092121/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3533-snake-in-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/3636-check-balanced-string) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [2232-adding-spaces-to-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2886-faulty-keyboard](https://github.com/anas092121/Leetcode-Solutions/tree/master/2886-faulty-keyboard) |
 | [3533-snake-in-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/3533-snake-in-matrix) |
 ## Binary Search Tree
 |  |

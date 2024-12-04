@@ -5,8 +5,7 @@ public:
     unordered_set<char> second = {'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l','A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L'};
     unordered_set<char> third = {'z', 'x', 'c', 'v', 'b', 'n', 'm','Z', 'X', 'C', 'V', 'B', 'N', 'M'};
 
-    bool canBeTypedFromRow(const string& word,
-                           const unordered_set<char>& rowSet) {
+    bool canBeTypedFromRow(const string& word, const unordered_set<char>& rowSet) {
         for (char ch : word) {
             if (rowSet.find(ch) == rowSet.end()) {
                 return false;

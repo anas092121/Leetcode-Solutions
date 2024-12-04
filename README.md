@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/anas092121/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anas092121/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0319-bulb-switcher](https://github.com/anas092121/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [1031-add-to-array-form-of-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [2037-count-square-sum-triples](https://github.com/anas092121/Leetcode-Solutions/tree/master/2037-count-square-sum-triples) |
 | [2571-find-the-pivot-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
@@ -264,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/anas092121/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [2571-find-the-pivot-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/anas092121/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->

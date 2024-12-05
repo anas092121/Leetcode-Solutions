@@ -1,3 +1,4 @@
+// this question can be solved in 0(n) using sets
 class Solution {
 public:
     int hash[101] = {0};

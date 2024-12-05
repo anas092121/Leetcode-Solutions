@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anas092121/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/anas092121/Leetcode-Solutions/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/anas092121/Leetcode-Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Greedy

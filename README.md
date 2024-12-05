@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/anas092121/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [1031-add-to-array-form-of-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [2037-count-square-sum-triples](https://github.com/anas092121/Leetcode-Solutions/tree/master/2037-count-square-sum-triples) |
+| [2083-three-divisors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2083-three-divisors) |
 | [2571-find-the-pivot-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/anas092121/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/anas092121/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [2037-count-square-sum-triples](https://github.com/anas092121/Leetcode-Solutions/tree/master/2037-count-square-sum-triples) |
+| [2083-three-divisors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/anas092121/Leetcode-Solutions/tree/master/2122-count-special-quadruplets) |
 ## Binary Search
 |  |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2159-two-out-of-three](https://github.com/anas092121/Leetcode-Solutions/tree/master/2159-two-out-of-three) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->

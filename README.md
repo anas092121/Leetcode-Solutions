@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/anas092121/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-lexicographically-smallest-palindrome](https://github.com/anas092121/Leetcode-Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2886-faulty-keyboard](https://github.com/anas092121/Leetcode-Solutions/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/anas092121/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3533-snake-in-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/3533-snake-in-matrix) |
 | [3617-find-the-original-typed-string-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |

@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0142-linked-list-cycle-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0500-keyboard-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0142-linked-list-cycle-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0941-sort-array-by-parity](https://github.com/anas092121/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |

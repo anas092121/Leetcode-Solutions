@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/anas092121/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anas092121/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2331-intersection-of-multiple-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/anas092121/Leetcode-Solutions/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/anas092121/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/anas092121/Leetcode-Solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2331-intersection-of-multiple-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/anas092121/Leetcode-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2159-two-out-of-three](https://github.com/anas092121/Leetcode-Solutions/tree/master/2159-two-out-of-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2331-intersection-of-multiple-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/anas092121/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-height-checker](https://github.com/anas092121/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2331-intersection-of-multiple-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 ## Two Pointers
 |  |
 | ------- |

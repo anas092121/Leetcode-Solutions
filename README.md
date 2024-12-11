@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/anas092121/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0500-keyboard-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/anas092121/Leetcode-Solutions/tree/master/0520-detect-capital) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/anas092121/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/anas092121/Leetcode-Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1542-consecutive-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anas092121/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/anas092121/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/anas092121/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2384-root-equals-sum-of-children](https://github.com/anas092121/Leetcode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/anas092121/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/anas092121/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/anas092121/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/anas092121/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2384-root-equals-sum-of-children](https://github.com/anas092121/Leetcode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Counting Sort
@@ -376,4 +380,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/anas092121/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/anas092121/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->

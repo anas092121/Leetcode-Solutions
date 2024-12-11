@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/anas092121/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/anas092121/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0500-keyboard-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/anas092121/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/anas092121/Leetcode-Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anas092121/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/anas092121/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/anas092121/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anas092121/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/anas092121/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/anas092121/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anas092121/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/anas092121/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/anas092121/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -368,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/anas092121/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->

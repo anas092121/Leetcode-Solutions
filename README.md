@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/anas092121/Leetcode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3533-snake-in-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/3533-snake-in-matrix) |
 | [3617-find-the-original-typed-string-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/3636-check-balanced-string) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2886-faulty-keyboard](https://github.com/anas092121/Leetcode-Solutions/tree/master/2886-faulty-keyboard) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/anas092121/Leetcode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3533-snake-in-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/3533-snake-in-matrix) |
 ## Binary Search Tree
 |  |

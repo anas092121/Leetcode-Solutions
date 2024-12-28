@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2037-count-square-sum-triples](https://github.com/anas092121/Leetcode-Solutions/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2507-number-of-common-factors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 | [2630-alternating-digit-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2630-alternating-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/anas092121/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2037-count-square-sum-triples](https://github.com/anas092121/Leetcode-Solutions/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/anas092121/Leetcode-Solutions/tree/master/2122-count-special-quadruplets) |
+| [2507-number-of-common-factors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 ## Binary Search
 |  |
 | ------- |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2083-three-divisors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2507-number-of-common-factors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 ## Backtracking
 |  |
 | ------- |

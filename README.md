@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2292-counting-words-with-a-given-prefix](https://github.com/anas092121/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2331-intersection-of-multiple-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/anas092121/Leetcode-Solutions/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2639-separate-the-digits-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/anas092121/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/anas092121/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [2358-number-of-ways-to-split-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2571-find-the-pivot-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/anas092121/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Brainteaser

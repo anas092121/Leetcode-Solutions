@@ -2,20 +2,9 @@ class Solution {
 public:
     string removeTrailingZeros(string num) {
         int size = num.size();
-        for(int i=num.size()-1; i>=0; i--){
-            if(num[i]=='0'){
-                size--;
-            }
-            else{
-                break;
-            }
+        while (size > 0 && num[size - 1] == '0') {
+            size--;
         }
-
-        string res = "";
-        for(int i=0; i<size; i++){
-            res += num[i];
-        }
-
-        return res;
+        return num.substr(0, size);
     }
 };

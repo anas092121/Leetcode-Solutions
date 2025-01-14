@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/anas092121/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/anas092121/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/anas092121/Leetcode-Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/anas092121/Leetcode-Solutions/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/anas092121/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |

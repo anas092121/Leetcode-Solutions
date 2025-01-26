@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anas092121/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0697-degree-of-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/anas092121/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/anas092121/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/anas092121/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0500-keyboard-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0697-degree-of-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/anas092121/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/anas092121/Leetcode-Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |

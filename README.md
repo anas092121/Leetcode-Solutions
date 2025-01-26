@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1137-height-checker](https://github.com/anas092121/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/anas092121/Leetcode-Solutions/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |

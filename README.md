@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1547-destination-city](https://github.com/anas092121/Leetcode-Solutions/tree/master/1547-destination-city) |
+| [1904-second-largest-digit-in-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/anas092121/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anas092121/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/anas092121/Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anas092121/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1904-second-largest-digit-in-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/anas092121/Leetcode-Solutions/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/anas092121/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/anas092121/Leetcode-Solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |

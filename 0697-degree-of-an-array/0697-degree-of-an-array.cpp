@@ -13,7 +13,6 @@ public:
 
         int degree = 0, minLength = nums.size();
 
-        // Determine the shortest subarray for elements with the max frequency
         for (auto it : count) {
             if (it.second > degree) {
                 degree = it.second;

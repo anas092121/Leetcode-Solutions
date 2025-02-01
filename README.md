@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0319-bulb-switcher](https://github.com/anas092121/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/anas092121/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/anas092121/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1274-number-of-days-between-two-dates](https://github.com/anas092121/Leetcode-Solutions/tree/master/1274-number-of-days-between-two-dates) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/anas092121/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/anas092121/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/anas092121/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/anas092121/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0415-add-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/anas092121/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/anas092121/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [2232-adding-spaces-to-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |

@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0874-backspace-string-compare](https://github.com/anas092121/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/anas092121/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anas092121/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1078-remove-outermost-parentheses](https://github.com/anas092121/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1274-number-of-days-between-two-dates](https://github.com/anas092121/Leetcode-Solutions/tree/master/1274-number-of-days-between-two-dates) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/anas092121/Leetcode-Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0874-backspace-string-compare](https://github.com/anas092121/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0983-validate-stack-sequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
+| [1078-remove-outermost-parentheses](https://github.com/anas092121/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |

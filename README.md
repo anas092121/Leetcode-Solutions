@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1547-destination-city](https://github.com/anas092121/Leetcode-Solutions/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/anas092121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1656-count-good-triplets](https://github.com/anas092121/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anas092121/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anas092121/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/anas092121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/anas092121/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/anas092121/Leetcode-Solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0958-sort-array-by-parity-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anas092121/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/anas092121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/anas092121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Matrix
 |  |

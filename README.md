@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1274-number-of-days-between-two-dates](https://github.com/anas092121/Leetcode-Solutions/tree/master/1274-number-of-days-between-two-dates) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/anas092121/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/anas092121/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2032-largest-odd-number-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/anas092121/Leetcode-Solutions/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/anas092121/Leetcode-Solutions/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/anas092121/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/anas092121/Leetcode-Solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2032-largest-odd-number-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/anas092121/Leetcode-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/anas092121/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1502-construct-k-palindrome-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/anas092121/Leetcode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/anas092121/Leetcode-Solutions/tree/master/2816-lexicographically-smallest-palindrome) |

@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/anas092121/Leetcode-Solutions/tree/master/1547-destination-city) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1656-count-good-triplets](https://github.com/anas092121/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anas092121/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0958-sort-array-by-parity-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/anas092121/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/anas092121/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1547-destination-city](https://github.com/anas092121/Leetcode-Solutions/tree/master/1547-destination-city) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1904-second-largest-digit-in-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/anas092121/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |

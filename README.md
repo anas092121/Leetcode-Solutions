@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anas092121/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/anas092121/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |

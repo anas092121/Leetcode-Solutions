@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/anas092121/Leetcode-Solutions/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anas092121/Leetcode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3374-count-alternating-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/3374-count-alternating-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |

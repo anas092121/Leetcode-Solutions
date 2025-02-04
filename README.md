@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2032-largest-odd-number-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/anas092121/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/anas092121/Leetcode-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0983-validate-stack-sequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/anas092121/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2128-reverse-prefix-of-word](https://github.com/anas092121/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anas092121/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anas092121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/anas092121/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/anas092121/Leetcode-Solutions/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |

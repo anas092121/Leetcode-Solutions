@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0983-validate-stack-sequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1031-add-to-array-form-of-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1072-next-greater-node-in-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1137-height-checker](https://github.com/anas092121/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anas092121/Leetcode-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0874-backspace-string-compare](https://github.com/anas092121/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0983-validate-stack-sequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
+| [1072-next-greater-node-in-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/anas092121/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/anas092121/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/anas092121/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1072-next-greater-node-in-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Merge Sort
 |  |
 | ------- |

@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/anas092121/Leetcode-Solutions/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/anas092121/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/anas092121/Leetcode-Solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/anas092121/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/anas092121/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anas092121/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/anas092121/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/anas092121/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0874-backspace-string-compare](https://github.com/anas092121/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anas092121/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/anas092121/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2470-removing-stars-from-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |

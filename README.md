@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/anas092121/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/anas092121/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/anas092121/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anas092121/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/anas092121/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anas092121/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/anas092121/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Trie
 |  |

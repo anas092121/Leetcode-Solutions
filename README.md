@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2083-three-divisors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/anas092121/Leetcode-Solutions/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2507-number-of-common-factors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 | [2630-alternating-digit-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2630-alternating-digit-sum) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2037-count-square-sum-triples](https://github.com/anas092121/Leetcode-Solutions/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/anas092121/Leetcode-Solutions/tree/master/2122-count-special-quadruplets) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/anas092121/Leetcode-Solutions/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2507-number-of-common-factors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 ## Binary Search
 |  |

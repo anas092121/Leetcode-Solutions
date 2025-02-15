@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2037-count-square-sum-triples](https://github.com/anas092121/Leetcode-Solutions/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2507-number-of-common-factors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 | [2630-alternating-digit-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2630-alternating-digit-sum) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anas092121/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2470-removing-stars-from-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/anas092121/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |

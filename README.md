@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/anas092121/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/anas092121/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1031-add-to-array-form-of-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1274-number-of-days-between-two-dates](https://github.com/anas092121/Leetcode-Solutions/tree/master/1274-number-of-days-between-two-dates) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/anas092121/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/anas092121/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/anas092121/Leetcode-Solutions/tree/master/0817-design-hashmap) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/anas092121/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0445-add-two-numbers-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anas092121/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |

@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0816-design-hashset](https://github.com/anas092121/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/anas092121/Leetcode-Solutions/tree/master/0817-design-hashmap) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/anas092121/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/anas092121/Leetcode-Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1078-remove-outermost-parentheses](https://github.com/anas092121/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/anas092121/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1274-number-of-days-between-two-dates](https://github.com/anas092121/Leetcode-Solutions/tree/master/1274-number-of-days-between-two-dates) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/anas092121/Leetcode-Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |

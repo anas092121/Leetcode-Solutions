@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anas092121/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/anas092121/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2465-shifting-letters-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |

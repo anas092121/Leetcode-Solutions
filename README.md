@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2748-calculate-delayed-arrival-time](https://github.com/anas092121/Leetcode-Solutions/tree/master/2748-calculate-delayed-arrival-time) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/2812-find-the-maximum-achievable-number) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3374-count-alternating-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/3374-count-alternating-subarrays) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/anas092121/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1765-merge-in-between-linked-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anas092121/Leetcode-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2128-reverse-prefix-of-word](https://github.com/anas092121/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3447-clear-digits](https://github.com/anas092121/Leetcode-Solutions/tree/master/3447-clear-digits) |
 ## Tree
 |  |

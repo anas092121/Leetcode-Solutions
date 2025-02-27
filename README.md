@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1031-add-to-array-form-of-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1274-number-of-days-between-two-dates](https://github.com/anas092121/Leetcode-Solutions/tree/master/1274-number-of-days-between-two-dates) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/anas092121/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/anas092121/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/anas092121/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/anas092121/Leetcode-Solutions/tree/master/2037-count-square-sum-triples) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1542-consecutive-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/anas092121/Leetcode-Solutions/tree/master/1547-destination-city) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anas092121/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/anas092121/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1666-make-the-string-great](https://github.com/anas092121/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anas092121/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/anas092121/Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |

@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2571-find-the-pivot-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 | [2630-alternating-digit-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/anas092121/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
+| [2649-count-total-number-of-colored-cells](https://github.com/anas092121/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/anas092121/Leetcode-Solutions/tree/master/2748-calculate-delayed-arrival-time) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |

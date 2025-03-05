@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3374-count-alternating-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/3374-count-alternating-subarrays) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/anas092121/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3568-find-the-key-of-the-numbers](https://github.com/anas092121/Leetcode-Solutions/tree/master/3568-find-the-key-of-the-numbers) |
 ## Hash Table
 |  |
 | ------- |

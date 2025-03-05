@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2481-strictly-palindromic-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/anas092121/Leetcode-Solutions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2630-alternating-digit-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/anas092121/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/anas092121/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -684,4 +685,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anas092121/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/anas092121/Leetcode-Solutions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->

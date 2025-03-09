@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/anas092121/Leetcode-Solutions/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/anas092121/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/anas092121/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2571-find-the-pivot-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/anas092121/Leetcode-Solutions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/anas092121/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/anas092121/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/anas092121/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |

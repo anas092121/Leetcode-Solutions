@@ -3,10 +3,10 @@ public:
     void transform(TreeNode* root, int& sum) {
         if (!root) return;
 
-        transform(root->right, sum);  // Traverse right subtree first
-        sum += root->val;             // Accumulate sum
-        root->val = sum;              // Update node value
-        transform(root->left, sum);   // Traverse left subtree
+        transform(root->right, sum); 
+        sum += root->val;             
+        root->val = sum;              
+        transform(root->left, sum);  
     }
 
     TreeNode* bstToGst(TreeNode* root) {

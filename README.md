@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anas092121/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/anas092121/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [2384-root-equals-sum-of-children](https://github.com/anas092121/Leetcode-Solutions/tree/master/2384-root-equals-sum-of-children) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anas092121/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/anas092121/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anas092121/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/anas092121/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [2384-root-equals-sum-of-children](https://github.com/anas092121/Leetcode-Solutions/tree/master/2384-root-equals-sum-of-children) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0501-find-mode-in-binary-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Design
 |  |
 | ------- |

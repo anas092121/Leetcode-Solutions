@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/anas092121/Leetcode-Solutions/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/anas092121/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2331-intersection-of-multiple-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/anas092121/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anas092121/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anas092121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anas092121/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Matrix
 |  |

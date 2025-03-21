@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2199-two-furthest-houses-with-different-colors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2232-adding-spaces-to-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/anas092121/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/anas092121/Leetcode-Solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anas092121/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anas092121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1961-maximum-ice-cream-bars](https://github.com/anas092121/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anas092121/Leetcode-Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/anas092121/Leetcode-Solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/anas092121/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/anas092121/Leetcode-Solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1823-determine-if-string-halves-are-alike](https://github.com/anas092121/Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1961-maximum-ice-cream-bars](https://github.com/anas092121/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/anas092121/Leetcode-Solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |

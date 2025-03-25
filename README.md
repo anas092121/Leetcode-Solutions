@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/anas092121/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/anas092121/Leetcode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0445-add-two-numbers-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1031-add-to-array-form-of-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1274-number-of-days-between-two-dates](https://github.com/anas092121/Leetcode-Solutions/tree/master/1274-number-of-days-between-two-dates) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/anas092121/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/anas092121/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/anas092121/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/anas092121/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/anas092121/Leetcode-Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/anas092121/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/anas092121/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anas092121/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anas092121/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -703,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/anas092121/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/anas092121/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anas092121/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anas092121/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anas092121/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |

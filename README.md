@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/anas092121/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/anas092121/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anas092121/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/anas092121/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0024-swap-nodes-in-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/anas092121/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/anas092121/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anas092121/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
 | ------- |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/anas092121/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/anas092121/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/anas092121/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/anas092121/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anas092121/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |

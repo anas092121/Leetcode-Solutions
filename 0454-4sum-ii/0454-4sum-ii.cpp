@@ -18,7 +18,7 @@ public:
         for(auto it : mp1){
             int x = -it.first;
             if(mp2.find(x) != mp2.end()){
-                ans = ans + it.second * mp2[x];  
+                ans = ans + it.second * mp2[x]; 
             }
         }             
 

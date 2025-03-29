@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2358-number-of-ways-to-split-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
+| [2486-most-frequent-even-element](https://github.com/anas092121/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2551-apply-operations-to-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/anas092121/Leetcode-Solutions/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2372-rearrange-characters-to-make-target-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/anas092121/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2486-most-frequent-even-element](https://github.com/anas092121/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/anas092121/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/anas092121/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2331-intersection-of-multiple-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/anas092121/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/anas092121/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anas092121/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |

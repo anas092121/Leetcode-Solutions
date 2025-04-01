@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2486-most-frequent-even-element](https://github.com/anas092121/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2551-apply-operations-to-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/anas092121/Leetcode-Solutions/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/anas092121/Leetcode-Solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2836-neither-minimum-nor-maximum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3334-apple-redistribution-into-boxes](https://github.com/anas092121/Leetcode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anas092121/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/anas092121/Leetcode-Solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Math
 |  |
 | ------- |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/anas092121/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/anas092121/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2886-faulty-keyboard](https://github.com/anas092121/Leetcode-Solutions/tree/master/2886-faulty-keyboard) |

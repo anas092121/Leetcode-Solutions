@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/anas092121/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/anas092121/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/anas092121/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/anas092121/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0142-linked-list-cycle-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |

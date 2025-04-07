@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2232-adding-spaces-to-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anas092121/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2317-count-collisions-on-a-road](https://github.com/anas092121/Leetcode-Solutions/tree/master/2317-count-collisions-on-a-road) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2365-percentage-of-letter-in-string) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anas092121/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/anas092121/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2317-count-collisions-on-a-road](https://github.com/anas092121/Leetcode-Solutions/tree/master/2317-count-collisions-on-a-road) |
 | [2470-removing-stars-from-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3447-clear-digits](https://github.com/anas092121/Leetcode-Solutions/tree/master/3447-clear-digits) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2271-rearrange-array-elements-by-sign](https://github.com/anas092121/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2317-count-collisions-on-a-road](https://github.com/anas092121/Leetcode-Solutions/tree/master/2317-count-collisions-on-a-road) |
 | [2428-equal-row-and-column-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |

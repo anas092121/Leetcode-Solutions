@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/anas092121/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anas092121/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/anas092121/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/anas092121/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/anas092121/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anas092121/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anas092121/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/anas092121/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [2481-strictly-palindromic-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 ## Bit Manipulation
@@ -856,4 +858,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anas092121/Leetcode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

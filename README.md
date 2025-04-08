@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3515-find-if-digit-game-can-be-won](https://github.com/anas092121/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/3533-snake-in-matrix) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anas092121/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/anas092121/Leetcode-Solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Sorting
 |  |
 | ------- |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2428-equal-row-and-column-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/anas092121/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/anas092121/Leetcode-Solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Simulation
 |  |
 | ------- |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3447-clear-digits](https://github.com/anas092121/Leetcode-Solutions/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/3540-hash-divided-string) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/anas092121/Leetcode-Solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Binary Search Tree
 |  |
 | ------- |

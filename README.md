@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/anas092121/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/3533-snake-in-matrix) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anas092121/Leetcode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anas092121/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/anas092121/Leetcode-Solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3408-count-the-number-of-special-characters-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anas092121/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anas092121/Leetcode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |

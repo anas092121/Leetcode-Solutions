@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1072-next-greater-node-in-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/anas092121/Leetcode-Solutions/tree/master/1137-height-checker) |
+| [1219-longest-well-performing-interval](https://github.com/anas092121/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/anas092121/Leetcode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/anas092121/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/anas092121/Leetcode-Solutions/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1219-longest-well-performing-interval](https://github.com/anas092121/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/anas092121/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/anas092121/Leetcode-Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1072-next-greater-node-in-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/anas092121/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1219-longest-well-performing-interval](https://github.com/anas092121/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 | [1552-build-an-array-with-stack-operations](https://github.com/anas092121/Leetcode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1666-make-the-string-great](https://github.com/anas092121/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anas092121/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/anas092121/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/anas092121/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1219-longest-well-performing-interval](https://github.com/anas092121/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anas092121/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anas092121/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -868,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/anas092121/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1219-longest-well-performing-interval](https://github.com/anas092121/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 ## Merge Sort
 |  |
 | ------- |

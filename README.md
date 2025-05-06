@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1961-maximum-ice-cream-bars](https://github.com/anas092121/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/anas092121/Leetcode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anas092121/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2048-build-array-from-permutation](https://github.com/anas092121/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1552-build-an-array-with-stack-operations](https://github.com/anas092121/Leetcode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anas092121/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anas092121/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/anas092121/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/anas092121/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anas092121/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |

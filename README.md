@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0522-longest-uncommon-subsequence-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anas092121/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/anas092121/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/anas092121/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0948-sort-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/anas092121/Leetcode-Solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0522-longest-uncommon-subsequence-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0697-degree-of-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/anas092121/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/anas092121/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anas092121/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0979-di-string-match](https://github.com/anas092121/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anas092121/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |

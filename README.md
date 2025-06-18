@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1961-maximum-ice-cream-bars](https://github.com/anas092121/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/anas092121/Leetcode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anas092121/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/anas092121/Leetcode-Solutions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2048-build-array-from-permutation](https://github.com/anas092121/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |

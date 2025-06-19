@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2331-intersection-of-multiple-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2283-sort-even-and-odd-indices-independently](https://github.com/anas092121/Leetcode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/anas092121/Leetcode-Solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2245-destroying-asteroids](https://github.com/anas092121/Leetcode-Solutions/tree/master/2245-destroying-asteroids) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anas092121/Leetcode-Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2329-maximum-product-after-k-increments](https://github.com/anas092121/Leetcode-Solutions/tree/master/2329-maximum-product-after-k-increments) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/anas092121/Leetcode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/anas092121/Leetcode-Solutions/tree/master/2816-lexicographically-smallest-palindrome) |

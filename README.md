@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/anas092121/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3334-apple-redistribution-into-boxes](https://github.com/anas092121/Leetcode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anas092121/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anas092121/Leetcode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3540-hash-divided-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/3540-hash-divided-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/3636-check-balanced-string) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anas092121/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -715,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2816-lexicographically-smallest-palindrome](https://github.com/anas092121/Leetcode-Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/anas092121/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3334-apple-redistribution-into-boxes](https://github.com/anas092121/Leetcode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Breadth-First Search
 |  |
 | ------- |

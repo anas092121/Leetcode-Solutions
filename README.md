@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0500-keyboard-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/anas092121/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anas092121/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/anas092121/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/anas092121/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/anas092121/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/anas092121/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anas092121/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0500-keyboard-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/anas092121/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0697-degree-of-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/anas092121/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/anas092121/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/anas092121/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
@@ -635,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/anas092121/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/anas092121/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/anas092121/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/anas092121/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anas092121/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |

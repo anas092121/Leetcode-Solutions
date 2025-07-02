@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anas092121/Leetcode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anas092121/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/anas092121/Leetcode-Solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Sorting
 |  |
 | ------- |

@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/anas092121/Leetcode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/anas092121/Leetcode-Solutions/tree/master/1547-destination-city) |
 | [1552-build-an-array-with-stack-operations](https://github.com/anas092121/Leetcode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anas092121/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/anas092121/Leetcode-Solutions/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1904-second-largest-digit-in-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1137-height-checker](https://github.com/anas092121/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/anas092121/Leetcode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1502-construct-k-palindrome-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/anas092121/Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1961-maximum-ice-cream-bars](https://github.com/anas092121/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |

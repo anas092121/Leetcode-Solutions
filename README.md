@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0520-detect-capital](https://github.com/anas092121/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0686-repeated-string-match](https://github.com/anas092121/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [0720-longest-word-in-dictionary](https://github.com/anas092121/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0824-number-of-lines-to-write-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0874-backspace-string-compare](https://github.com/anas092121/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/anas092121/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [1524-string-matching-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anas092121/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anas092121/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |

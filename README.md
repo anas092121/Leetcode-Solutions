@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1031-add-to-array-form-of-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1274-number-of-days-between-two-dates](https://github.com/anas092121/Leetcode-Solutions/tree/master/1274-number-of-days-between-two-dates) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/anas092121/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/anas092121/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/anas092121/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0817-design-hashmap](https://github.com/anas092121/Leetcode-Solutions/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/0838-design-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anas092121/Leetcode-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |

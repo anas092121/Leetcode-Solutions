@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/anas092121/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/anas092121/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/anas092121/Leetcode-Solutions/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3321-type-of-triangle](https://github.com/anas092121/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/anas092121/Leetcode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anas092121/Leetcode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2699-count-the-number-of-fair-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/anas092121/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3321-type-of-triangle](https://github.com/anas092121/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/anas092121/Leetcode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anas092121/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/anas092121/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/anas092121/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/anas092121/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3374-count-alternating-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/3374-count-alternating-subarrays) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/anas092121/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3568-find-the-key-of-the-numbers](https://github.com/anas092121/Leetcode-Solutions/tree/master/3568-find-the-key-of-the-numbers) |

@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/anas092121/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/anas092121/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/anas092121/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/anas092121/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/anas092121/Leetcode-Solutions/tree/master/0326-power-of-three) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/anas092121/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/anas092121/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/anas092121/Leetcode-Solutions/tree/master/0383-ransom-note) |
@@ -973,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/anas092121/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/anas092121/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/anas092121/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0740-delete-and-earn](https://github.com/anas092121/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |

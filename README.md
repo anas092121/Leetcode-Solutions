@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2645-pass-the-pillow](https://github.com/anas092121/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/anas092121/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2650-split-with-minimum-sum) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/anas092121/Leetcode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/anas092121/Leetcode-Solutions/tree/master/2748-calculate-delayed-arrival-time) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2329-maximum-product-after-k-increments](https://github.com/anas092121/Leetcode-Solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2650-split-with-minimum-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2650-split-with-minimum-sum) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/anas092121/Leetcode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/anas092121/Leetcode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/anas092121/Leetcode-Solutions/tree/master/2816-lexicographically-smallest-palindrome) |

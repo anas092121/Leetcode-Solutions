@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/anas092121/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
+| [2154-minimum-moves-to-convert-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2154-minimum-moves-to-convert-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/anas092121/Leetcode-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/anas092121/Leetcode-Solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1961-maximum-ice-cream-bars](https://github.com/anas092121/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2154-minimum-moves-to-convert-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2154-minimum-moves-to-convert-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2245-destroying-asteroids](https://github.com/anas092121/Leetcode-Solutions/tree/master/2245-destroying-asteroids) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anas092121/Leetcode-Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |

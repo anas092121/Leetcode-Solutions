@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2428-equal-row-and-column-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2486-most-frequent-even-element](https://github.com/anas092121/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anas092121/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -938,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0292-nim-game](https://github.com/anas092121/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/anas092121/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [2481-strictly-palindromic-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anas092121/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -957,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anas092121/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/anas092121/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anas092121/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/anas092121/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/anas092121/Leetcode-Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |

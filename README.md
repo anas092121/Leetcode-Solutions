@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/anas092121/Leetcode-Solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anas092121/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3540-hash-divided-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/3540-hash-divided-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/anas092121/Leetcode-Solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3790-fruits-into-baskets-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1044,4 +1047,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anas092121/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->

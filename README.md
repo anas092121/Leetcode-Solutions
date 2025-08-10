@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/anas092121/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/anas092121/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/anas092121/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/anas092121/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |

@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1031-add-to-array-form-of-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/anas092121/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/anas092121/Leetcode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/anas092121/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1072-next-greater-node-in-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/anas092121/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/anas092121/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/anas092121/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anas092121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/anas092121/Leetcode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |

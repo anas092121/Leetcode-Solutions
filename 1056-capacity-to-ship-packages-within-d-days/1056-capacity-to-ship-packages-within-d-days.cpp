@@ -10,6 +10,7 @@ public:
                 d++;
                 sum = it;
             }
+            if(d>days)  return false;
         }
         return d <= days;
     }

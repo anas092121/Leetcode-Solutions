@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0454-4sum-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0463-island-perimeter](https://github.com/anas092121/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/anas092121/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/anas092121/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/anas092121/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0463-island-perimeter](https://github.com/anas092121/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/anas092121/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/anas092121/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/anas092121/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0463-island-perimeter](https://github.com/anas092121/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/anas092121/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/anas092121/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -853,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anas092121/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0463-island-perimeter](https://github.com/anas092121/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anas092121/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |

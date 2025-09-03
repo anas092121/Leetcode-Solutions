@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-leaf-similar-trees](https://github.com/anas092121/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anas092121/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-leaf-similar-trees](https://github.com/anas092121/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anas092121/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-leaf-similar-trees](https://github.com/anas092121/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anas092121/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1005-univalued-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/anas092121/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |

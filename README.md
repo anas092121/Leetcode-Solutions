@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anas092121/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/anas092121/Leetcode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/anas092121/Leetcode-Solutions/tree/master/1137-height-checker) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/anas092121/Leetcode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/anas092121/Leetcode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anas092121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/anas092121/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/anas092121/Leetcode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1731-even-odd-tree) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/anas092121/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/anas092121/Leetcode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/anas092121/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/anas092121/Leetcode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1731-even-odd-tree) |
@@ -916,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0933-increasing-order-search-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anas092121/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/anas092121/Leetcode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Design
 |  |
 | ------- |

@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0686-repeated-string-match](https://github.com/anas092121/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [0720-longest-word-in-dictionary](https://github.com/anas092121/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0742-to-lower-case](https://github.com/anas092121/Leetcode-Solutions/tree/master/0742-to-lower-case) |
 | [0824-number-of-lines-to-write-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0874-backspace-string-compare](https://github.com/anas092121/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/anas092121/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |

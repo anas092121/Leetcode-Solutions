@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2154-minimum-moves-to-convert-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2154-minimum-moves-to-convert-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/anas092121/Leetcode-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2235-capitalize-the-title](https://github.com/anas092121/Leetcode-Solutions/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anas092121/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2317-count-collisions-on-a-road](https://github.com/anas092121/Leetcode-Solutions/tree/master/2317-count-collisions-on-a-road) |

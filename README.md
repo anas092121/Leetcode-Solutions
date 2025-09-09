@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/anas092121/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/anas092121/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/anas092121/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/anas092121/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0275-h-index-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |

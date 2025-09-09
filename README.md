@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/anas092121/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0454-4sum-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/anas092121/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anas092121/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/anas092121/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/anas092121/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/anas092121/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/anas092121/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/anas092121/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/anas092121/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -948,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anas092121/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0380-insert-delete-getrandom-o1](https://github.com/anas092121/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0816-design-hashset](https://github.com/anas092121/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/anas092121/Leetcode-Solutions/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/anas092121/Leetcode-Solutions/tree/master/0838-design-linked-list) |
@@ -1126,4 +1130,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/anas092121/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

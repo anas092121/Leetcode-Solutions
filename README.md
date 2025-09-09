@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/anas092121/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/anas092121/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/anas092121/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anas092121/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anas092121/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anas092121/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anas092121/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/anas092121/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anas092121/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/anas092121/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0275-h-index-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0275-h-index-ii) |

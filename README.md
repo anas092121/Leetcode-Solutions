@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2650-split-with-minimum-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2650-split-with-minimum-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
+| [2887-sort-vowels-in-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/anas092121/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/anas092121/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/anas092121/Leetcode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/anas092121/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/anas092121/Leetcode-Solutions/tree/master/2886-faulty-keyboard) |
+| [2887-sort-vowels-in-a-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/anas092121/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3396-valid-word](https://github.com/anas092121/Leetcode-Solutions/tree/master/3396-valid-word) |

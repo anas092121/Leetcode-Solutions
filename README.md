@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2048-build-array-from-permutation](https://github.com/anas092121/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/anas092121/Leetcode-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/anas092121/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anas092121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/anas092121/Leetcode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1961-maximum-ice-cream-bars](https://github.com/anas092121/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anas092121/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2245-destroying-asteroids](https://github.com/anas092121/Leetcode-Solutions/tree/master/2245-destroying-asteroids) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/anas092121/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/anas092121/Leetcode-Solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2329-maximum-product-after-k-increments](https://github.com/anas092121/Leetcode-Solutions/tree/master/2329-maximum-product-after-k-increments) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2032-largest-odd-number-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/anas092121/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2154-minimum-moves-to-convert-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2154-minimum-moves-to-convert-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/anas092121/Leetcode-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -990,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/anas092121/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Recursion
 |  |
 | ------- |
@@ -1141,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Game Theory
 |  |
 | ------- |

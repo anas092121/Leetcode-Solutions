@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anas092121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/anas092121/Leetcode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1656-count-good-triplets](https://github.com/anas092121/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/anas092121/Leetcode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1813-maximum-erasure-value](https://github.com/anas092121/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anas092121/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anas092121/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/anas092121/Leetcode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/anas092121/Leetcode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anas092121/Leetcode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/anas092121/Leetcode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/anas092121/Leetcode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1731-even-odd-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1731-even-odd-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anas092121/Leetcode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -921,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/anas092121/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anas092121/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/anas092121/Leetcode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2722-prime-in-diagonal](https://github.com/anas092121/Leetcode-Solutions/tree/master/2722-prime-in-diagonal) |
@@ -1141,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/anas092121/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/anas092121/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/anas092121/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/anas092121/Leetcode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anas092121/Leetcode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Geometry
 |  |

@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/anas092121/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/anas092121/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/anas092121/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/anas092121/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/anas092121/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anas092121/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/anas092121/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/anas092121/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/anas092121/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -1012,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anas092121/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anas092121/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String Matching

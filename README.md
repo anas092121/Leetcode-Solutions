@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/anas092121/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/anas092121/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/anas092121/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0778-reorganize-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anas092121/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/anas092121/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0948-sort-an-array) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/anas092121/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/anas092121/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/anas092121/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0697-degree-of-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/anas092121/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/anas092121/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
+| [0778-reorganize-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/anas092121/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/anas092121/Leetcode-Solutions/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/anas092121/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/anas092121/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/anas092121/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0742-to-lower-case](https://github.com/anas092121/Leetcode-Solutions/tree/master/0742-to-lower-case) |
+| [0778-reorganize-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0874-backspace-string-compare](https://github.com/anas092121/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/anas092121/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
@@ -768,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/anas092121/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/anas092121/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/anas092121/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anas092121/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -834,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0324-wiggle-sort-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/anas092121/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/anas092121/Leetcode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0778-reorganize-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anas092121/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0979-di-string-match](https://github.com/anas092121/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anas092121/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |

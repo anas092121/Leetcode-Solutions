@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anas092121/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/anas092121/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/anas092121/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/anas092121/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
@@ -1144,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anas092121/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/anas092121/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/anas092121/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 ## Monotonic Stack

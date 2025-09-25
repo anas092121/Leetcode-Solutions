@@ -1225,4 +1225,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/anas092121/Leetcode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+## Database
+|  |
+| ------- |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anas092121/Leetcode-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->

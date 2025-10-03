@@ -2,9 +2,9 @@ class Solution {
 
     public int maxBottlesDrunk(int numBottles, int numExchange) {
         int ans = numBottles;
-        for (int i = numBottles; i >= numExchange; numExchange++) {
+        for (int empty = numBottles; empty >= numExchange; numExchange++) {
             ans++;
-            i -= numExchange - 1;
+            empty -= numExchange - 1;
         }
         return ans;
     }

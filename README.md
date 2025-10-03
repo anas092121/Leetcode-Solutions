@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2998-count-symmetric-integers](https://github.com/anas092121/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/anas092121/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/anas092121/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3374-count-alternating-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/3374-count-alternating-subarrays) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/anas092121/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3568-find-the-key-of-the-numbers](https://github.com/anas092121/Leetcode-Solutions/tree/master/3568-find-the-key-of-the-numbers) |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2639-separate-the-digits-in-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/anas092121/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2886-faulty-keyboard](https://github.com/anas092121/Leetcode-Solutions/tree/master/2886-faulty-keyboard) |
+| [3336-water-bottles-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/anas092121/Leetcode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/anas092121/Leetcode-Solutions/tree/master/3447-clear-digits) |

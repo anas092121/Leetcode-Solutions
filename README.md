@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/anas092121/Leetcode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anas092121/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/anas092121/Leetcode-Solutions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2047-find-a-peak-element-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/anas092121/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anas092121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/anas092121/Leetcode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anas092121/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2047-find-a-peak-element-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2294-minimum-time-to-complete-trips](https://github.com/anas092121/Leetcode-Solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anas092121/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anas092121/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anas092121/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/anas092121/Leetcode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2047-find-a-peak-element-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2722-prime-in-diagonal](https://github.com/anas092121/Leetcode-Solutions/tree/master/2722-prime-in-diagonal) |

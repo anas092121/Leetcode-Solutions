@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/anas092121/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anas092121/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anas092121/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/anas092121/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/anas092121/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/anas092121/Leetcode-Solutions/tree/master/0231-power-of-two) |
@@ -1173,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anas092121/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anas092121/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/anas092121/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/anas092121/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
@@ -1261,4 +1263,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anas092121/Leetcode-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anas092121/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

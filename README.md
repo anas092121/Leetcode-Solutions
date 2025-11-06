@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anas092121/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3863-power-grid-maintenance](https://github.com/anas092121/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Sorting
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2329-maximum-product-after-k-increments](https://github.com/anas092121/Leetcode-Solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/anas092121/Leetcode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3678-design-task-manager](https://github.com/anas092121/Leetcode-Solutions/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/anas092121/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
 | ------- |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anas092121/Leetcode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/anas092121/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anas092121/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3863-power-grid-maintenance](https://github.com/anas092121/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anas092121/Leetcode-Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/anas092121/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2121-find-if-path-exists-in-graph](https://github.com/anas092121/Leetcode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3863-power-grid-maintenance](https://github.com/anas092121/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -954,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1731-even-odd-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/1731-even-odd-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anas092121/Leetcode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/anas092121/Leetcode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3863-power-grid-maintenance](https://github.com/anas092121/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
 |  |
 | ------- |
@@ -1251,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/anas092121/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/anas092121/Leetcode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anas092121/Leetcode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [3863-power-grid-maintenance](https://github.com/anas092121/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Geometry
 |  |
 | ------- |
@@ -1274,6 +1280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3678-design-task-manager](https://github.com/anas092121/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3863-power-grid-maintenance](https://github.com/anas092121/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Randomized
 |  |
 | ------- |
@@ -1282,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/anas092121/Leetcode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [3863-power-grid-maintenance](https://github.com/anas092121/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Database
 |  |
 | ------- |

@@ -1296,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/anas092121/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anas092121/Leetcode-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Memoization
 |  |

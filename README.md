@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anas092121/Leetcode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3374-count-alternating-subarrays](https://github.com/anas092121/Leetcode-Solutions/tree/master/3374-count-alternating-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/anas092121/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3044-minimum-operations-to-collect-elements](https://github.com/anas092121/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/anas092121/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anas092121/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -1140,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/anas092121/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2571-find-the-pivot-integer](https://github.com/anas092121/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/anas092121/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anas092121/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Brainteaser

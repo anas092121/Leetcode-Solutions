@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1642-water-bottles](https://github.com/anas092121/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/anas092121/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/anas092121/Leetcode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1925-count-square-sum-triples](https://github.com/anas092121/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/anas092121/Leetcode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/anas092121/Leetcode-Solutions/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/anas092121/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -969,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/anas092121/Leetcode-Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/anas092121/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/anas092121/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2037-count-square-sum-triples](https://github.com/anas092121/Leetcode-Solutions/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/anas092121/Leetcode-Solutions/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/anas092121/Leetcode-Solutions/tree/master/2122-count-special-quadruplets) |
